@@ -7,7 +7,7 @@
 ## Roadmap
 ### MVP
 - [x] Create a plan for how the branching will work.
-- [ ] Create a GitHub action+ for CI
+- [ ] Create a GitHub action for CI
 - [ ] Create a GitHub action for CD
 - [ ] Create basic HTML layout.
 - [ ] Add Tailwind styling.
