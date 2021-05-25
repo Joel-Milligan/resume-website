@@ -1,17 +1,16 @@
 # Planning
-## Technologies to Use
-- Dev Containers
-- GitHub Actions (CI/CD)
-- TypeScript
+## Potential Technologies to Use
+- [ ] Dev Containers
+- [ ] GitHub Actions (CI/CD)
+- [ ] TypeScript
 
 ## Roadmap
 ### MVP
-- [ ] Create a plan for how the branching will work.
-- [ ] Create a GitHub actions workflow for CI/CD.
-  - [ ] Automatic deployment to Netlify.
-- [ ] Create a development container.
+- [x] Create a plan for how the branching will work.
+- [ ] Create a GitHub action+ for CI
+- [ ] Create a GitHub action for CD
 - [ ] Create basic HTML layout.
-- [ ] Add my own CSS styling.
+- [ ] Add Tailwind styling.
 - [ ] Add basic reactivity with TS.
 
 ### Further Improvements
